@@ -13,7 +13,7 @@ Then, I analyzed the sentiment score across all users over time by creating line
 
 Finally, I generated a word cloud to identify the most common topics of the tweets posted during this period. Covid-19 emerged as the dominant topic.
 
-##Problems
+## Problems
 
 The lack of available data, particularly the missing location and occupation values for the top 10 users, created some difficulties. I was unable to accurately identify the location of the influencers as the location data was available for only a few of them. Similarly, identifying their occupations using HISCO codes was not possible as it was the most common missing value. One solution could be to use an NLP method to analyze their descriptions and figure out their occupation or hobbies.
 
