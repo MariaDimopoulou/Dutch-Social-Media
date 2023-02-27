@@ -19,3 +19,8 @@ The lack of available data, particularly the missing location and occupation val
 
 Overall, I managed to complete the analysis within the given time frame more or less. If given more time, I would explore the possibility of using NLP methods to extract more insights from the available data.
 
+## Sources
+https://www.freecodecamp.org/
+https://stackoverflow.com/
+https://www.w3schools.com/
+https://pandas.pydata.org/docs/index.html
