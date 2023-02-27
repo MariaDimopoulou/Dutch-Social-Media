@@ -1,7 +1,7 @@
 # TL-Technical-Assessment
 ## Dutch Social Media Analysis
 
-This project is about the Dutch Social Media. It used the ****Dutch Social Media Collection**** from ****Kagggle****. 
+This project is about the Dutch Social Media. It used the ***Dutch Social Media Collection*** from ***Kagggle***. 
 Tha data set had 10 files of many tweets from different people in Dutch language and/or for users who had mentioned that they were from within Netherlands geographical borders.
 I tried to make a 3-hour analysis of the given data. 
 
