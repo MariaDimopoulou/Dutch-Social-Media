@@ -1,15 +1,24 @@
-## Dutch Social Media Analysis
+# Dutch Social Media Analysis 📊🇳🇱
 
-This project is about the Dutch Social Media. It used the ***Dutch Social Media Collection*** from ***Kaggle***. 
-Tha data set had 10 files of many tweets from different people in Dutch language and/or for users who had mentioned that they were from within Netherlands geographical borders.
+Welcome to the Dutch Social Media Analysis project! 🚀 This analysis delves into the Dutch Social Media Collection from Kaggle, featuring 10 files with diverse tweets from users within the Netherlands or tweeting in Dutch.
 
-At first, I wanted to identify the most active users on the platform - those who post the most - and analyze their behavior. To achieve this, I needed to address the problem of missing values. Therefore, I determined the most common missing values in the data, which enabled me to avoid any inaccuracies or mistakes in the analysis.
+## Key Objectives
 
-Next, I created a pie chart to display the regions of the top 10 "influencers" (the most active Twitter users in our data) and a stacked bar chart to show their daily activity on the platform. This helped to reveal that most of the influencers had a daily habit of posting on Twitter.
+1. **Identifying Influencers:** Discover the most active users on the platform and analyze their posting behavior.
+2. **Handling Missing Values:** Address the challenge of missing data for accurate analyses.
+3. **Geographical Insight:** Visualize the regions of the top 10 influencers using a pie chart.
+4. **Daily Activity Analysis:** Understand the daily posting habits of influencers through a stacked bar chart.
+5. **Sentiment Analysis:** Explore sentiment scores across all users over time, identifying potential correlations with notable events.
+6. **Day-of-the-Week Analysis:** Investigate patterns in sentiment scores throughout the week.
+7. **Word Cloud Analysis:** Generate a word cloud to highlight the prevalent topics, with a particular focus on the dominant theme.
 
-Then, I analyzed the sentiment score across all users over time by creating line graphs. I guess that periods with less positive posts were potentially associated with unfortunate events but of course, this is not something that came out of research so this is not particularly the case-it is only an assumption. Similarly, I analyzed the days of the week where sentiment scores increased or decreased.
+## Highlights
 
-Finally, I generated a word cloud to identify the most common topics of the tweets posted during this period. Covid-19 emerged as the dominant topic.
+- 🌐 **Geographical Insights:** Dive into the regions of the most active Twitter users.
+- 📈 **Daily Habits:** Visualize the daily posting habits of influencers with a stacked bar chart.
+- 🌐 **Sentiment Trends:** Explore sentiment score changes over time for intriguing insights.
+- 📅 **Day-of-the-Week Patterns:** Uncover patterns in sentiment scores throughout the week.
+- ☁️ **Word Cloud Magic:** Identify prevalent topics, with Covid-19 emerging as a dominant theme.
 
 
 ## Sources
